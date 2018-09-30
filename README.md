@@ -1,2 +1,7 @@
 # gitpaid
-gitpaid for the changes you make
+
+git paid for the changes you make
+
+client/web/ui
+
+by alfienitylucero
